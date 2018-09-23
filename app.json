@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "AKCSSC18",
+    "sdkVersion": "27.0.0",
+    "description": "Official app for akcss18.Checkout the app for all info regarding the event.",
+    "slug": "akcssc18-app",
+    "icon":"./icon.png",
+    "splash":{
+      "image":"./icon.png",
+	},
+    "android": {
+     "package": "com.user9747.me"
+   },
+    
+  }
+}
+
